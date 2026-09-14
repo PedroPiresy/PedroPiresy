@@ -11,11 +11,11 @@
 <!-- ╔═══════════════ HEADER (onda animada) ═══════════════╗ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,50:9d4edd,100:c77dff&height=210&section=header&text=Pedro%20Pires&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20Fullstack%20Developer&descAlignY=56&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,50:9d4edd,100:c77dff&height=210&section=header&text=Pedro%20Pires&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%20Fullstack%20Developer&descAlignY=56&descSize=18" width="100%" alt="header" />
 
 <!-- ╔═══════════════ TÍTULO DIGITADO (animado) ═══════════════╗ -->
 <a href="https://github.com/PedroPiresy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&height=60&lines=Junior+Fullstack+Developer;.NET+%2F+C%23+%2F+EF+Core;DDD+%C2%B7+CQRS+%C2%B7+Clean+Architecture;APIs+multi-tenant+e+sistemas+distribu%C3%ADdos" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&height=60&lines=+Fullstack+Developer;.NET+%2F+C%23+%2F+EF+Core;DDD+%C2%B7+CQRS+%C2%B7+Clean+Architecture;APIs+multi-tenant+e+sistemas+distribu%C3%ADdos" alt="typing" />
 </a>
 
 <br/>
@@ -41,7 +41,7 @@
 ```csharp
 public class Pedro : IDeveloper
 {
-    public string Role        => "Junior Fullstack Developer";
+    public string Role        => " Fullstack Developer";
     public string Core        => ".NET / C# · EF Core · Software Architecture";
     public string[] Patterns  => ["DDD", "CQRS", "Clean Architecture", "Outbox", "Idempotency"];
     public string Focus       => "APIs multi-tenant, sistemas distribuídos e DevOps";
